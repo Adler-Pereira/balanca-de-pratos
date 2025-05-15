@@ -1,0 +1,49 @@
+body{
+    background-color: cadetblue;
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.linha{
+    display: flex;
+    justify-content: space-around;
+}
+
+#caixa{
+    margin-bottom: 1px;
+    width: 70%;
+    height: 3vh;
+    display: flex;
+    justify-content: space-around;
+    transform: rotate(0deg);
+    transition: transform 0.5s ease-in-out;
+}
+
+#caixa input{
+    width: 12vw;
+    border: 0;
+    font-size: 2.5vh;
+}
+
+#caixa input:focus{
+    outline: none;
+}
+
+#balanca{
+    width: 50%;
+    height: 3vh;
+    background-color: white;
+    transform: rotate(0deg);
+    transition: transform 0.5s ease-in-out;
+}
+
+.base{
+    border-left: 3vh solid transparent;
+    border-right: 3vh solid transparent;
+    border-bottom: 3vh solid white;
+}
