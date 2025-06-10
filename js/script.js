@@ -5,11 +5,11 @@ function calcular(){
     var boxum = document.getElementById("boxum");
     var expum = boxum.value;
     expum = expum.replace(',', '.');
-    var resum = eval(expum);
+    var resum = math.evaluate(expum);
     var boxdois = document.getElementById("boxdois");
     var expdois = boxdois.value;
     expdois = expdois.replace(',', '.');
-    var resdois = eval(expdois);
+    var resdois = math.evaluate(expdois);
     if(resum > resdois){
         tabua.style.transform = `rotate(-4deg)`;
         caixa.style.transform = `rotate(-4deg)`;
