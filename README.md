@@ -1,7 +1,7 @@
 <h1 align="center" style="font-weight: bold;">Balança de Pratos ⚖️</h1>
 
 <p align="center">
- <a href="#tech">Tecnologias</a> • 
+ <a href="#tecnologias">Tecnologias</a> • 
  <a href="#started">Como testar</a>
 </p>
 
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-     <a href="https://adler-pereira.github.io/balanca-de-pratos/">📱 Visite esse projeto 💻</a>
+     <a href="https://adler-pereira.github.io/balanca-de-pratos/" target="_blank">📱 Visite esse projeto 💻</a>
 </p>
 
 <h2 id="layout">🎨 Layout</h2>
@@ -20,7 +20,7 @@
     <img src="images/example2.png" alt="Image Example" width="400px">
 </p>
 
-<h2 id="technologies">💻 Tecnologias</h2>
+<h2 id="tecnologias">💻 Tecnologias</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
