@@ -36,15 +36,15 @@
 
 <h4>✅ Operações Aritméticas</h4>
 
-2 + 3
+2 + 3 → 5
 <br>
-10 - 4
+10 - 4 → 6
 <br>
-5 * 6
+5 * 6 → 30
 <br>
-8 / 2
+8 / 2 → 4
 <br>
-2 ^ 3 (potenciação)
+2 ^ 3 → 8 (potenciação)
 
 <h4>🔁 Parênteses</h4>
 
