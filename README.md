@@ -2,7 +2,8 @@
 
 <p align="center">
  <a href="#tecnologias">Tecnologias</a> • 
- <a href="#started">Como testar</a>
+ <a href="#started">Como testar</a> • 
+ <a href="#operations">Operações Suportadas</a>
 </p>
 
 <p align="center">
@@ -31,7 +32,7 @@
 <p align="justify">Ao acessar o link, você encontrará uma interface simples com dois campos de entrada: um para o lado esquerdo e outro para o lado direito.</p>
 <p align="justify">Você pode inserir equações matemáticas, como por exemplo <b>2 + 2</b> de um lado e <b>4</b> do outro, e a balança irá indicar se a equação está balanceada ou não. Caso um lado estiver com valor mais alto em comparação ao outro, a balança irá inclinar para o mais pesado.</p>
 
-<h3>🧮 Operações Suportadas</h3>
+<h3 id="operations">🧮 Operações Suportadas</h3>
 <p align="justify">A Balança de Pratos permite comparar expressões matemáticas nos dois lados. Com o suporte da biblioteca <b>math.js</b>, você pode usar:</p>
 
 <h4>✅ Operações Aritméticas</h4>
