@@ -28,9 +28,12 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 <h2 id="started">🚀 Como testar</h2>
+
 <p align="justify">A <b>Balança de Pratos</b> na matemática é um conceito que consiste em encontrar a equivalência entre dois lados de uma equação.</p>
-<p align="justify">Ao acessar o link, você encontrará uma interface simples com dois campos de entrada: um para o lado esquerdo e outro para o lado direito.</p>
-<p align="justify">Você pode inserir equações matemáticas, como por exemplo <b>2 + 2</b> de um lado e <b>4</b> do outro, e a balança irá indicar se a equação está balanceada ou não. Caso um lado estiver com valor mais alto em comparação ao outro, a balança irá inclinar para o mais pesado.</p>
+<p align="justify">Este projeto oferece uma interface simples onde você pode testar esse conceito de forma interativa. Ao acessar a aplicação, você encontrará dois campos de entrada:</p>
+<p align="justify">🔹 Um para o lado esquerdo da equação</p>
+<p align="justify">🔹 Outro para o lado direito</p>
+<p align="justify">Você pode inserir expressões como <b>2 + 2</b> de um lado e <b>4</b> do outro. A balança irá calcular os valores e indicar se a equação está balanceada. Caso um dos lados tenha um valor maior, a balança se inclinará visualmente para o lado mais pesado, demonstrando o desequilíbrio.</p>
 
 <h3 id="operations">🧮 Operações Suportadas</h3>
 <p align="justify">A Balança de Pratos permite comparar expressões matemáticas nos dois lados. Com o suporte da biblioteca <b>math.js</b>, você pode usar:</p>
