@@ -4,6 +4,7 @@
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#started">Como Testar</a> • 
  <a href="#operations">Operações Suportadas</a>
+ <a href="#prerequisites">Pré-Requisitos</a>
 </p>
 
 <p align="center">
@@ -84,7 +85,7 @@ log(100, 10) → 2
 <br>
 exp(1) → ≈ 2.718
 
-<h3>Pré-requisitos</h3>
+<h3 id="prerequisites">Pré-requisitos</h3>
 🌐Teste online pelo link acima:
 <br><b>
 
