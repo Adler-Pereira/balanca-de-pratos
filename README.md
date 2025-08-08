@@ -3,7 +3,7 @@
 <p align="center">
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#started">Como Testar</a> • 
- <a href="#operations">Operações Suportadas</a>
+ <a href="#operations">Operações Suportadas</a> • 
  <a href="#prerequisites">Pré-Requisitos</a>
 </p>
 
