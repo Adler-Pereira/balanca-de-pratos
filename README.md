@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <b>Um projeto escolar que demonstra de maneira didática o conceito de equivalência em uma equação matemática.</b>
+    Um projeto escolar que demonstra de maneira didática o conceito de equivalência em uma equação matemática.
 </p>
 
 <p align="center">
